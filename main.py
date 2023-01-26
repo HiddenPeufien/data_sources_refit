@@ -16,4 +16,3 @@ def hello_world():
     </script>
     """
     return prefix_google + "Hello World"
-
